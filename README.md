@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devarshi Shimpi</h1>
-- 🔭 I’m currently working on **DVS App Store**
+- 🔭 I’m currently working on DVS App Store
 
 - 🌱 I’m currently learning **JS Frameworks, dJS-V13 and Hacking Exploitations**
 
