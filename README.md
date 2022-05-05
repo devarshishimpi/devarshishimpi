@@ -15,7 +15,7 @@
 <a href="https://codesandbox.com/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="devarshishimpi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucjuepwgrbgd8m9qckccbjcw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjuepwgrbgd8m9qckccbjcw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devarshishimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devarshishimpi" height="30" width="40" /></a>
-<a href="https://discord.gg/PhVXpxSNwj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PhVXpxSNwj" height="30" width="40" /></a>
+<a href="https://discord.gg/PeKWRMMy6g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PhVXpxSNwj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
