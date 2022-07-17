@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devarshi Shimpi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarshishimpi&label=Profile%20views&color=0e75b6&style=flat" alt="devarshishimpi" /> </p>
 
-- 🔭 I’m currently working on **DVS App Store**
+- 🔭 I’m currently working on **DVS App Store, Stone CSS**
 
 - 🌱 I’m currently learning **JS Frameworks, dJS-V13 and Hacking Exploitations**
 
