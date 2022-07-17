@@ -28,4 +28,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dvstech"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dvstech" /></a></p><br><br>
+<a href="https://www.vultr.com/?ref=9043736" target="_blank"><img src="https://dvstechgithub.netlify.app/images/vultr-try.png"/></a>
+
+<a href="https://dvsdonatebtc.netlify.app/" target="_blank"><img src="https://dvstechgithub.netlify.app/images/btc-try.png"/></a>
+
+<a href="https://www.patreon.com/dvstech" target="_blank"><img src="https://dvstechgithub.netlify.app/images/patreon-try.png"/></a>
+
+<a href="https://www.buymeacoffee.com/dvstech" target="_blank"><img src="https://dvstechgithub.netlify.app/images/buymeacoffee-try.png"/></a>
