@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devarshi Shimpi</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer%2C+Bot+Developer;Desktop+C%23+Developer)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarshishimpi&label=Profile%20views&color=0e75b6&style=flat" alt="devarshishimpi" /> </p>
 
 - 🔭 I’m currently working on **DVS App Store, Stone CSS**
