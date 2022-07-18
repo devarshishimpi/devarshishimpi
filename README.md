@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full+Stack+Developer%2C+Bot+Developer;Desktop+C%23+Developer;CSS+Framework+Developer;and+much+more.)](https://git.io/typing-svg)
 
+<img src="https://dvstechgithub.netlify.app/images/profilebanner.png"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarshishimpi&label=Profile%20views&color=0e75b6&style=flat" alt="devarshishimpi" /> </p>
 
 - 🔭 I’m currently working on **DVS App Store, Stone CSS**
