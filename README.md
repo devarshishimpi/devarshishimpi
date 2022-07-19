@@ -6,7 +6,7 @@
 
 <img src="https://dvstechgithub.netlify.app/images/profilebanner.png"/>
 
-- 🔭 I’m currently working on **DVS App Store, Stone CSS**
+- 🔭 I’m currently working on **DVS App Store, Stone CSS Library and Framework**
 
 - 🌱 I’m currently learning **JS Frameworks, dJS-V13 and Hacking Exploitations**
 
