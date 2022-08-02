@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full+Stack+Developer%2C+Bot+Developer;Desktop+C%23+Developer;CSS+Framework+Developer;and+much+more.)](https://git.io/typing-svg)
 
-<img src="https://dvstechgithub.netlify.app/images/profilebanner.png"/>
+<img src="images/profilebanner.png"/>
 
 - 🔭 I’m currently working on **DVS App Store, Stone CSS Library and Framework**
 
@@ -30,7 +30,7 @@
 
 
 <h3 align="left">Support:</h3>
-<a href="https://www.vultr.com/?ref=9043736" target="_blank"><img src="https://dvstechgithub.netlify.app/images/vultr-try.png"/></a>
-<a href="https://dvsdonatebtc.netlify.app/" target="_blank"><img src="https://dvstechgithub.netlify.app/images/btc-try.png"/></a>
-<a href="https://www.patreon.com/dvstech" target="_blank"><img src="https://dvstechgithub.netlify.app/images/patreon-try.png"/></a>
-<a href="https://www.buymeacoffee.com/dvstech" target="_blank"><img src="https://dvstechgithub.netlify.app/images/buymeacoffee-try.png"/></a>
+<a href="https://www.vultr.com/?ref=9043736" target="_blank"><img src="images/vultr-try.png"/></a>
+<a href="https://dvsdonatebtc.netlify.app/" target="_blank"><img src="images/btc-try.png"/></a>
+<a href="https://www.patreon.com/dvstech" target="_blank"><img src="images/patreon-try.png"/></a>
+<a href="https://www.buymeacoffee.com/dvstech" target="_blank"><img src="images/buymeacoffee-try.png"/></a>
