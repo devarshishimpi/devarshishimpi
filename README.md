@@ -6,9 +6,9 @@
 
 <img src="images/profilebanner.png"/>
 
-- 🔭 I’m currently working on **DVS App Store, Stone CSS Library and Framework**
+- 🔭 I’m currently working on **DVS App Store, DVS Taskify, Stone CSS Library and Framework**
 
-- 🌱 I’m currently learning **JS Frameworks, Mobile Apps and Hacking Exploitations**
+- 🌱 I’m currently learning **Blockchain and Hacking Exploitations**
 
 - 📫 How to reach me **devarshishimpi@gmail.com**
 
