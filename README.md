@@ -6,11 +6,13 @@
 
 <img src="images/profilebanner.png"/>
 
-- 🔭 I’m currently working on **DVS App Store, DVS Taskify, Stone CSS Library and Framework**
+- I’m currently working on **DVS App Store, Noteslify, Stone CSS Library and Framework**
 
-- 🌱 I’m currently learning **Blockchain and Hacking Exploitations**
+- I’m currently learning **Blockchain and Hacking Exploitations**
 
-- 📫 How to reach me **devarshishimpi@gmail.com**
+- I write Blogs at <a href="https://dev.to/devarshishimpi" target="_blank">Dev.to</a> and <a href="https://devarshishimpi.hashnode.dev/" target="_blank">Hashnode</a>
+
+- How to reach me **devarshishimpi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
