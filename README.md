@@ -43,13 +43,8 @@
 
 
 <h3 align="left">Support:</h3>
-If You would like to support me or my work, please use the below links :)
+If You would like to <a href="https://github.com/sponsors/devarshishimpi">support me</a> or my work, please use the below links :)
 
-<a href="https://www.vultr.com/?ref=9043736" target="_blank"><img src="images/vultr-try.png"/></a>
 <a href="https://dvsdonatebtc.netlify.app/" target="_blank"><img src="images/btc-try.png"/></a>
 <a href="https://www.patreon.com/dvstech" target="_blank"><img src="images/patreon-try.png"/></a>
 <a href="https://www.buymeacoffee.com/dvstech" target="_blank"><img src="images/buymeacoffee-try.png"/></a>
-<a href="https://presearch.com/signup?rid=4339531" target="_blank"><img src="images/presearch-try.png"/></a>
-<a href="https://railway.app?referralCode=tXRquz" target="_blank"><img src="images/railway-try.png"/></a>
-<a href="https://cloudinary.com/invites/lpov9zyyucivvxsnalc5/wlfqn2dwmbvrdld8z2gk?t=default" target="_blank"><img src="images/cloudinary-try.png"/></a>
-<a href="https://m.do.co/c/645d44d1a7a1" target="_blank"><img src="images/digitalocean-try.png"/></a>
