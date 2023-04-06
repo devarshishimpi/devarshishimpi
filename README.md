@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full+Stack+Developer%2C+Bot+Developer;Desktop+C%23+Developer;CSS+Framework+Developer;and+much+more.)](https://git.io/typing-svg)
 
-<img src="images/profilebanner.png"/>
+<img src="images/githubbannerfinal.png"/>
 
 - I’m currently working on **DVS App Store, Noteslify, Stone CSS Library and Framework**
 
