@@ -6,9 +6,7 @@
 
 <img src="images/githubbannerfinal.png"/>
 
-- I’m currently working on **DVS App Store, Noteslify, Stone CSS Library and Framework**
-
-- I’m currently learning **Blockchain and Hacking Exploitations**
+- I’m currently working on **RepoCraft, Noteslify, Stone CSS Framework and ByteMakers**
 
 - I write Blogs at <a href="https://dev.to/devarshishimpi" target="_blank">Dev.to</a> and <a href="https://devarshishimpi.hashnode.dev/" target="_blank">Hashnode</a> and <a href="https://blog.stonecss.com/" target="_blank">My Blog</a>
 
