@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarshishimpi&label=Profile%20views&color=0e75b6&style=flat" alt="devarshishimpi" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=+Full+Stack+Developer%2C+Bot+Developer;Desktop+C%23+Developer;CSS+Framework+Developer;and+much+more.)](https://git.io/typing-svg)
-
 <img src="images/githubbannerfinal.png"/>
 
 - I’m currently working on **RepoCraft, TailwindCraft, StaticStorm, and ByteMakers**
