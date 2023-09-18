@@ -6,7 +6,7 @@
 
 <img src="images/githubbannerfinal.png"/>
 
-- I’m currently working on **RepoCraft, TailwindCraft, and ByteMakers**
+- I’m currently working on **RepoCraft, TailwindCraft, StaticStorm, and ByteMakers**
 
 - I write Blogs at <a href="https://dev.to/devarshishimpi" target="_blank">Dev.to</a> and <a href="https://devarshishimpi.hashnode.dev/" target="_blank">Hashnode</a>
 
