@@ -24,8 +24,6 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarshishimpi&show_icons=true&theme=dark&locale=en" alt="devarshishimpi" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devarshishimpi&theme=dark" alt="devarshishimpi" /></p>
 
 
