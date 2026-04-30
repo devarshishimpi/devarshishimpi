@@ -10,4 +10,4 @@ Founder & Software Engineer
 
 ## Connect
 
-[Website](https://devarshi.dev) • [Twitter / X](https://twitter.com/DevarshiShimpi) • [GitHub](https://github.com/devarshishimpi) • [LinkedIn](https://linkedin.com/in/devarshi-shimpi) • [YouTube](https://youtube.com/@devarshishimpi)
+[Website](https://devarshi.dev) • [Blog](https://devarshi.dev/blog) • [Email](mailto:me@devarshi.dev) • [Twitter / X](https://twitter.com/DevarshiShimpi) • [LinkedIn](https://linkedin.com/in/devarshi-shimpi) • [YouTube](https://youtube.com/@devarshishimpi)
